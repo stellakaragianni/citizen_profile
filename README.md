@@ -1,2 +1,2 @@
 # citizen_profile
-How to manage a citizen's profile in public database.
+Management & maintance of a typical citizen's profile in public database.
